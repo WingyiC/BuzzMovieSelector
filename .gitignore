@@ -1,0 +1,9 @@
+/Login/Login-ejb/build/
+/Login/Login-ejb/dist/
+/Login/Login-ejb/nbproject/private/
+/Login/Login-war/build/
+/Login/Login-war/nbproject/private/
+/Login/nbproject/private/
+*.class
+/build/
+/dist/
